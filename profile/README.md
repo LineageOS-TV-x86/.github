@@ -13,6 +13,10 @@ If you are looking for zip to flash manual updates, releases can be found at:<br
 x86_64_tv : https://github.com/LineageOS-TV-x86/x86_64_tv/releases <br>
 x86_64_tv_go : https://github.com/LineageOS-TV-x86/x86_64_tv_go/releases
 
-Gapps coming soon
+There are these options for Gapps:
+- [Custom MindTheGapps (A14)](https://github.com/supremegamers/MTG-14.0.0-x86_64-ATV)
+- [NotSoGapps, basically MindTheGapps but Play Services is being replaced with microG Services (A14)](https://github.com/supremegamers/NSG-14.0.0-x86_64-ATV)
+
+If you want to know which variant you should flash, check out [LineageOS wiki](https://wiki.lineageos.org/gapps/#android-tv-only-gapps-variants)
 
 Discussion on Telegram : https://t.me/androidtvcanactuallyrunonpc
