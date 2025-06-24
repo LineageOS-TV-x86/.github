@@ -9,7 +9,7 @@ Checked pinned repo for source
 
 _**(Check the directories to choose the build that you want instead of using the Download Latest button)**_
 
-If you are looking for zip to flash manual updates, releases can be found at:<br>
+If you are looking for zip to flash manual updates, or mirror links of iso files, releases can be found at:<br>
 x86_64_tv : https://github.com/LineageOS-TV-x86/x86_64_tv/releases <br>
 x86_64_tv_go : https://github.com/LineageOS-TV-x86/x86_64_tv_go/releases
 
